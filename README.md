@@ -1,5 +1,5 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
+  Portfolio <br/>
   <a href="" target="_blank">Neelmani</a>
 </h2>
 <div align="center">
